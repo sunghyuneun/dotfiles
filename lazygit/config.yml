@@ -1,0 +1,9 @@
+# ~/.config/lazygit/config.yml
+
+customCommands:
+  - key: 'n'
+    context: 'files'
+    description: 'Push (no verify)'
+    command: 'git push --no-verify'
+    loadingText: 'Pushing...'
+    output: terminal

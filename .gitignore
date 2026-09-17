@@ -8,5 +8,7 @@
 !cheatsheets/**
 !nvim/
 !nvim/**
+!lazygit/
+!lazygit/**
 !.gitignore
 
