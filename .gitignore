@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep these
+!cheatsheets/
+!cheatsheets/**
+!kitty/
+!cheatsheets/**
+!nvim/
+!nvim/**
+!.gitignore
+
