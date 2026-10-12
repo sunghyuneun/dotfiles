@@ -7,4 +7,4 @@ vim.opt.clipboard = "unnamedplus"
 vim.opt.mouse = "a"
 
 -- Auto-change working directory to current file/folder
-vim.opt.autochdir = true
+-- vim.opt.autochdir = true
